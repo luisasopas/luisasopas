@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Luisa Sopas</h1>
 <h3 align="center">A junior developer, passionate about people and code, having fun while learning how to code "harder, better, faster, stronger"!</h3>
 
-- 🔭 I’m currently working on **<Academia de Código_>**
+- 🔭 I’m currently working on **improving my software development skills**
 
 - 🌱 I’m currently learning **Spring Boot, microsservices and containers**
 
 - 👯 I’m looking to collaborate on **back-end projects**
 
-- 📫 How to reach me **luisasopas@gmail.com**
+- 📫 How to reach me:  **luisasopas@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/luisasopas/](https://www.linkedin.com/in/luisasopas/)
+- 📄 Know about my experiences:  [https://www.linkedin.com/in/luisasopas/](https://www.linkedin.com/in/luisasopas/)
 
 - :heart_eyes: Passions (besides code) **: I'm crazy about architecture, digital illustration, and read magic realism and fantasy literature**
 
