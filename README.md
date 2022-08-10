@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/luisasopas/](https://www.linkedin.com/in/luisasopas/)
 
-- ⚡ Fun fact **: I'm crazy about digital illustration, and read magic realism and fantasy literature**
+- :heart_eyes: Passions (besides code) **: I'm crazy about architecture, digital illustration, and read magic realism and fantasy literature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
