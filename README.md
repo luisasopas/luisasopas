@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my software development skills**
 
-- 🌱 I’m currently learning **Spring Boot, microsservices and containers**
+- 🌱 I’m currently learning **Spring Boot, Microservice Architecture and other intermediate Java programming concepts**
 
 - 👯 I’m looking to collaborate on **back-end projects**
 
